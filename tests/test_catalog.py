@@ -29,9 +29,12 @@ class CatalogTests(unittest.TestCase):
     def validate(self, entries):
         return CHECK.validate({"schema_version": 1, "themes": entries}, POLICY)
 
-    def test_real_catalog_starts_empty(self):
+    def test_real_catalog_is_valid(self):
         catalog = json.loads((ROOT / "catalog/index.json").read_text(encoding="utf-8"))
-        self.assertEqual(CHECK.validate(catalog, POLICY), 0)
+        self.assertEqual(CHECK.validate(catalog, POLICY), len(catalog["themes"]))
+
+    def test_empty_catalog_is_valid(self):
+        self.assertEqual(self.validate([]), 0)
 
     def test_unicode_author_and_theme_are_accepted(self):
         entry = example()
