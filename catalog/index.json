@@ -1,4 +1,197 @@
 {
   "schema_version": 1,
-  "themes": []
+  "themes": [
+    {
+      "id": "xvshifu/rice-paper",
+      "name": "宣纸",
+      "version": "1.0.0",
+      "author": {
+        "name": "XVSHIFU",
+        "github": "XVSHIFU"
+      },
+      "source": "https://github.com/XVSHIFU/pebrel-themes",
+      "license": "MIT",
+      "archive": {
+        "url": "https://github.com/XVSHIFU/pebrel-themes/releases/download/v1.0.0/rice-paper.pebrel-theme.zip",
+        "sha256": "9419b2303e12f98dfcfe253dca6f1f84753b6ccd42f903cc6b61381803a0e495",
+        "bytes": 121082
+      },
+      "unpacked_bytes": 120724,
+      "video_bytes": 0,
+      "description": "暖白纸面、墨绿点缀。纯配色主题，无背景图。",
+      "preview": "https://raw.githubusercontent.com/XVSHIFU/pebrel-themes/v1.0.0/themes/rice-paper/preview.png",
+      "tags": [
+        "light",
+        "colors-only"
+      ]
+    },
+    {
+      "id": "xvshifu/ink-bamboo",
+      "name": "墨竹",
+      "version": "1.0.0",
+      "author": {
+        "name": "XVSHIFU",
+        "github": "XVSHIFU"
+      },
+      "source": "https://github.com/XVSHIFU/pebrel-themes",
+      "license": "MIT",
+      "archive": {
+        "url": "https://github.com/XVSHIFU/pebrel-themes/releases/download/v1.0.0/ink-bamboo.pebrel-theme.zip",
+        "sha256": "5333cc2ebc3cd6ddb56ce92903c0550505ed7855c3514db5cbad6fcda94a848c",
+        "bytes": 121909
+      },
+      "unpacked_bytes": 121551,
+      "video_bytes": 0,
+      "description": "深墨绿底色与柔和青绿强调。纯配色主题，无背景图。",
+      "preview": "https://raw.githubusercontent.com/XVSHIFU/pebrel-themes/v1.0.0/themes/ink-bamboo/preview.png",
+      "tags": [
+        "dark",
+        "colors-only"
+      ]
+    },
+    {
+      "id": "xvshifu/watercolor-reverie",
+      "name": "水彩幻境",
+      "version": "1.0.0",
+      "author": {
+        "name": "XVSHIFU",
+        "github": "XVSHIFU"
+      },
+      "source": "https://github.com/XVSHIFU/pebrel-themes",
+      "license": "MIT AND CC0-1.0",
+      "archive": {
+        "url": "https://github.com/XVSHIFU/pebrel-themes/releases/download/v1.0.0/watercolor-reverie.pebrel-theme.zip",
+        "sha256": "97b661fc9cc85bd7828285165aa9cc200192cfc45a571c55dc666b3c70bbb613",
+        "bytes": 3236661
+      },
+      "unpacked_bytes": 3236185,
+      "video_bytes": 0,
+      "description": "淡玉色拱门、粉色树影与水彩雾气。",
+      "preview": "https://raw.githubusercontent.com/XVSHIFU/pebrel-themes/v1.0.0/themes/watercolor-reverie/preview.png",
+      "tags": [
+        "light",
+        "ai-background"
+      ]
+    },
+    {
+      "id": "xvshifu/pastel-arcades",
+      "name": "云上回廊",
+      "version": "1.0.0",
+      "author": {
+        "name": "XVSHIFU",
+        "github": "XVSHIFU"
+      },
+      "source": "https://github.com/XVSHIFU/pebrel-themes",
+      "license": "MIT AND CC0-1.0",
+      "archive": {
+        "url": "https://github.com/XVSHIFU/pebrel-themes/releases/download/v1.0.0/pastel-arcades.pebrel-theme.zip",
+        "sha256": "dc46c717746bdb99dcfc48e70ff933a06c201a5d58622700e7cccbd63e8238b0",
+        "bytes": 2860010
+      },
+      "unpacked_bytes": 2859534,
+      "video_bytes": 0,
+      "description": "桃色石阶与薄荷色回廊组成的空中建筑。",
+      "preview": "https://raw.githubusercontent.com/XVSHIFU/pebrel-themes/v1.0.0/themes/pastel-arcades/preview.png",
+      "tags": [
+        "light",
+        "ai-background"
+      ]
+    },
+    {
+      "id": "xvshifu/concrete-sunlight",
+      "name": "光庭",
+      "version": "1.0.0",
+      "author": {
+        "name": "XVSHIFU",
+        "github": "XVSHIFU"
+      },
+      "source": "https://github.com/XVSHIFU/pebrel-themes",
+      "license": "MIT AND CC0-1.0",
+      "archive": {
+        "url": "https://github.com/XVSHIFU/pebrel-themes/releases/download/v1.0.0/concrete-sunlight.pebrel-theme.zip",
+        "sha256": "93ef10a5ba5ee6a726b914caacedabf500adbfcf840f3077d1818304f2be9ae1",
+        "bytes": 3872185
+      },
+      "unpacked_bytes": 3871709,
+      "video_bytes": 0,
+      "description": "暖灰混凝土、斜向日光与庭院水景。",
+      "preview": "https://raw.githubusercontent.com/XVSHIFU/pebrel-themes/v1.0.0/themes/concrete-sunlight/preview.png",
+      "tags": [
+        "light",
+        "ai-background"
+      ]
+    },
+    {
+      "id": "xvshifu/lily-atelier",
+      "name": "睡莲画室",
+      "version": "1.0.0",
+      "author": {
+        "name": "XVSHIFU",
+        "github": "XVSHIFU"
+      },
+      "source": "https://github.com/XVSHIFU/pebrel-themes",
+      "license": "MIT AND CC0-1.0",
+      "archive": {
+        "url": "https://github.com/XVSHIFU/pebrel-themes/releases/download/v1.0.0/lily-atelier.pebrel-theme.zip",
+        "sha256": "8ca343b5210faeb5de765414941acb097afbf75e1d675f267a51f1e86579b31c",
+        "bytes": 4306764
+      },
+      "unpacked_bytes": 4306288,
+      "video_bytes": 0,
+      "description": "浅紫与鼠尾草绿的睡莲池，保留油画笔触。",
+      "preview": "https://raw.githubusercontent.com/XVSHIFU/pebrel-themes/v1.0.0/themes/lily-atelier/preview.png",
+      "tags": [
+        "light",
+        "ai-background"
+      ]
+    },
+    {
+      "id": "xvshifu/pixel-harbor",
+      "name": "像素海港",
+      "version": "1.0.0",
+      "author": {
+        "name": "XVSHIFU",
+        "github": "XVSHIFU"
+      },
+      "source": "https://github.com/XVSHIFU/pebrel-themes",
+      "license": "MIT AND CC0-1.0",
+      "archive": {
+        "url": "https://github.com/XVSHIFU/pebrel-themes/releases/download/v1.0.0/pixel-harbor.pebrel-theme.zip",
+        "sha256": "55ac407003c10ac0d7382b553b14a8c385350daef422a7694161fe192aa8d3b4",
+        "bytes": 2552736
+      },
+      "unpacked_bytes": 2552260,
+      "video_bytes": 0,
+      "description": "深蓝夜海、远山与琥珀灯光的像素风港湾。",
+      "preview": "https://raw.githubusercontent.com/XVSHIFU/pebrel-themes/v1.0.0/themes/pixel-harbor/preview.png",
+      "tags": [
+        "dark",
+        "ai-background"
+      ]
+    },
+    {
+      "id": "xvshifu/rain-city-glass",
+      "name": "霓虹雨城",
+      "version": "1.0.0",
+      "author": {
+        "name": "XVSHIFU",
+        "github": "XVSHIFU"
+      },
+      "source": "https://github.com/XVSHIFU/pebrel-themes",
+      "license": "MIT AND CC0-1.0",
+      "archive": {
+        "url": "https://github.com/XVSHIFU/pebrel-themes/releases/download/v1.0.0/rain-city-glass.pebrel-theme.zip",
+        "sha256": "2216ac4046354241cf0309469c789f24861d535ce6d36292e1687306730e1a4e",
+        "bytes": 2968462
+      },
+      "unpacked_bytes": 2967986,
+      "video_bytes": 0,
+      "description": "克制的青蓝霓虹、雨夜高楼与水面倒影。",
+      "preview": "https://raw.githubusercontent.com/XVSHIFU/pebrel-themes/v1.0.0/themes/rain-city-glass/preview.png",
+      "tags": [
+        "dark",
+        "ai-background"
+      ]
+    }
+  ]
 }
