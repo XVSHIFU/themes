@@ -5,9 +5,9 @@
 The theme directory for [Pebrel Community](https://github.com/pebrel-community).
 Share your work with author attribution, previews, source, and a versioned ZIP.
 
-**Bootstrap status:** the catalog is empty. The community directory is being
-established; ZIP installation, animated backgrounds, and GLSL execution are not
-claimed as shipped application features by this repository.
+The [catalog](catalog/index.json) lists submitted community themes. Application
+compatibility and tested platforms are documented by each author; catalog
+validation does not establish successful installation or rendering.
 
 ## Share a theme
 
